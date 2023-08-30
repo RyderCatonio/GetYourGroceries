@@ -33,4 +33,4 @@ The development process involved all aspects of app development, including:
 
 **Contributors**
 
-Ryder Catonio, Jack Parsons, Mira Patel, Rupin Bapuji, Ali Muneer.
+Ryder Catonio, Jack Parsons, Kush Padalia, Mira Patel, Rupin Bapuji, Ali Muneer.
