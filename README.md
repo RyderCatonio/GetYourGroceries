@@ -17,8 +17,6 @@ A fully functional and user-friendly Android application developed by a team of 
 
 **Key Functionalities**
 
-- User authentication
-
 - Real-time updates
 
 - Seamless integration and data management
