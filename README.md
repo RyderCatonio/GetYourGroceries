@@ -1,6 +1,5 @@
 # Get Your Groceries
 <img width="398" alt="Screen Shot 2023-08-30 at 12 41 19 PM" src="https://github.com/CMPUT301F22T14/GetYourGroceries/assets/97204693/2d4b4dc3-fec7-496d-93fd-a5a547e2828f">
-<img width="371" alt="Screen Shot 2023-08-30 at 12 41 42 PM" src="https://github.com/CMPUT301F22T14/GetYourGroceries/assets/97204693/79a2167e-ae9e-4e2c-911c-55a0b78c084d">
 <img width="373" alt="Screen Shot 2023-08-30 at 12 41 31 PM" src="https://github.com/CMPUT301F22T14/GetYourGroceries/assets/97204693/f8364f71-2178-4043-aefe-4ba0d065554c">
 A fully functional and user-friendly Android application developed by a team of six, using Android Studio and Firebase Database.
 
