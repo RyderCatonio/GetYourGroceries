@@ -30,7 +30,6 @@ The development process involved all aspects of app development, including:
 
 - Testing
 
-- Deployment
 
 **Contributors**
 
